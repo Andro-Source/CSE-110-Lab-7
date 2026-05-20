@@ -6,3 +6,5 @@
 
 **within a GitHub Action that runs whenever code is pushed**
 This is the best option because it automatically checks whether new changes break existing functionality before the code is merged or used by other team members. It also makes testing consistent, since everyone’s code is tested the same way instead of relying on each person to remember to run tests locally.
+
+2. Would you use an end to end test to check if a function is returning the correct output? (yes/no)
