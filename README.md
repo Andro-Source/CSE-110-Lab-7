@@ -11,7 +11,7 @@ This is the best option because it automatically checks whether new changes brea
 
 **No.** End-to-end tests are meant to test a full user workflow from start to finish, such as clicking buttons, interacting with the webpage, and checking that the UI behaves correctly. To check whether a single function returns the correct output, I would use a unit test instead.
 
-![Screenshot of test results](./ss.jpg)
+![Updated Image](./ss.jpg)
 
 3. What is the difference between navigation and snapshot mode?
 
